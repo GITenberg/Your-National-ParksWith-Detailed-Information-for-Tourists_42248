@@ -1,0 +1,39 @@
+_repo: Your-National-ParksWith-Detailed-Information-for-Tourists_42248
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42248-h/images/frontcover.jpg
+creator:
+  authors:
+  - agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+  - agent_name: Schmeckebier, Laurence Frederick
+    aliases:
+    - Schmeckebier, Laurence F. (Laurence Frederick)
+    - Schmeckebier, L. F. (Laurence Frederick)
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '41592'
+    url: http://www.gutenberg.org/2009/agents/41592
+description: ''
+gutenberg_issued: '2013-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42248'
+  lccn: '17014711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'West (U.S.) -- Guidebooks'
+- !lcsh 'National parks and reserves -- United States'
+- !lcsh 'National parks and reserves -- Canada'
+title: Your National Parks, with Detailed Information for Tourists
+url: http://www.gutenberg.org/ebooks/42248
